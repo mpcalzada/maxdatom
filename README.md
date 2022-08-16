@@ -21,12 +21,18 @@ Max Datom's website is made with several levels, within each one you may learn t
 
 ## Level 6
 
-This level shows how to use the pull syntax for getting the whole reference for a specific :where clause.
+This level shows how to use the `pull` syntax for getting the whole reference for a specific `:where` clause.
 
 ## Level 7
 
-This level shows how to destructure a reference already gathered by the pull command.
+This level shows how to destructure a reference already gathered by the `pull` command.
 
 ## Level 8
 
 This level shows how to add parameters into a query.
+
+## Level 9
+
+This level shows how to work
+with [collection binding](https://docs.datomic.com/cloud/query/query-data-reference.html#collection-binding) to interact
+with multiple values within a unique search. Using the `[variable ...]` syntax.
