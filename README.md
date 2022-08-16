@@ -26,3 +26,7 @@ This level shows how to use the pull syntax for getting the whole reference for 
 ## Level 7
 
 This level shows how to destructure a reference already gathered by the pull command.
+
+## Level 8
+
+This level shows how to add parameters into a query.
