@@ -11,13 +11,23 @@ Max Datom's website is made with several levels, within each one you may learn t
 
 ## Level 1
 
+(Warm up)
+
 ## Level 2
+
+(Warm up)
 
 ## Level 3
 
+Showing and hiding entity ID
+
 ## Level 4
 
+Querying a database with [unification](https://docs.datomic.com/query/query-executing.html#unification)
+
 ## Level 5
+
+(Warm up)
 
 ## Level 6
 
